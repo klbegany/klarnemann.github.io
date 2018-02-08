@@ -1,4 +1,4 @@
 name: Katelyn Arnemann
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-cayman
+url: https://klarnemann.github.io
