@@ -1,6 +1,5 @@
 .DS_Store
 *.pyc
 *~
-*.png
 **/.ipynb_checkpoints
 _/site
